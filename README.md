@@ -1,4 +1,4 @@
-# LangGraph Multi-Agent Support System
+# Multi-Agent LLM Orchestration System – LangGraph + Claude API 
 ### Galaxy Telecom — AI-Powered Customer Support
 
 A production-grade multi-agent AI system built with LangGraph and LangChain,
